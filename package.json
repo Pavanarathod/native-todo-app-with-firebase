@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-navigation/drawer": "^6.4.1",
     "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.2",
     "@types/shortid": "^0.0.29",
     "expo": "~45.0.0",
     "expo-linking": "^3.1.0",
